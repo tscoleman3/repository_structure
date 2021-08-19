@@ -28,3 +28,13 @@ Please do not leave cells blank. Blank cells leave a lot up for interpretation--
   
 ### Headers  
 All headers, variables, and columns must be defined, and units should be provided, no uppercase or spaces between words. Define any acronyms or abbreviations used in the dataset in the README.md. An outside user should be able to understand your dataset using this information.
+  
+### A few data packet examples are included:
+**oys_heights_pecket_demo.xlsx** - oyster heights collected in part of a transect in the field, then transferred to excel
+  
+**oys_transect_packet_demo.xlsx** - oyster transect data collected in the field, then transferred to excel
+  
+**oys_spat_tile_packet_demo.xlsx** - these data were recorded in the lab striaght into excel after counting oyster spat off a tile, so no need for a double entry system
+  
+**oys_cultchmass_packet_demo.xlsx** - oyster ciultch mass collected in the field, then transferred to excel
+  
